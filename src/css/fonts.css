@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: "Helvetica Now" ;
-    src: url(src/fonts/helveticanowtext-black.ttf);
+    src: url(../fonts/helveticanowtext-black.ttf) format("truetype");
 }
 @font-face {
     font-family: "Helvetica Now Italic" ;
