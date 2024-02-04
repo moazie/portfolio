@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: "Helvetica Now" ;
-    src: url(/src/fonts/helveticanowtext-black.ttf);
+    src: url(github.com/moazie/portfolio/src/fonts/helveticanowtext-black.ttf);
 }
 @font-face {
     font-family: "Helvetica Now Italic" ;
@@ -28,7 +28,7 @@
     color: rgb(255, 255, 255);
 }
 h1{
-    font-family: "Helvetica Now";
+    font-family: "Helvetica";
     font-size: 35vw;
 }
 h2{
