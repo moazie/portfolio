@@ -1,0 +1,91 @@
+.container {
+ display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr ;
+ column-gap: 5px;
+}
+
+.r1{
+    z-index: 1;
+    transition: transform .7s ease-in-out;
+    transition: all .7s;
+    animation-timing-function: ease-in;
+    scale: 1;
+    margin-top: 10vw;
+    position:absolute ;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    width: auto\\9;
+}
+.center2{
+    margin-top: 115vh;
+    display: grid;
+    align-items: center;
+    align-content: center;
+    place-items: center;
+}
+
+.revolve{
+    transform: rotate(0deg);
+}
+
+.hidden3 {
+    opacity: 0;
+    transition: all .7s;
+    animation-timing-function: ease-in;
+    transform: rotate(30deg);
+    margin-left: 5vh;
+    margin-top: 3vh;
+
+}
+
+.reveal {
+    opacity: 1;
+    filter: blur(0);
+    transform: rotate(0deg);
+    margin-left: 0vh;
+    margin-top: 0vh;
+
+}
+body{
+    overflow: hidden;
+}
+.H1{
+    color: white;
+    font-family: "Poppins";
+    font-size: 4vw;
+    position: absolute;
+    margin-top: 18vw;
+
+
+
+}
+.link11{
+    color: rgb(0, 154, 242);
+    text-decoration: none;
+    font-family: "Poppins";
+    font-size: 3vw;
+    position: absolute;
+    margin-top: 22vw;
+
+}
+.git{
+    transition: all .5s;
+    animation-timing-function: ease-in;
+}
+.lin{
+    margin-left: -33.1vw;
+    transition: all .5s;
+    animation-timing-function: ease-in;
+}
+.phone{
+    transform: translateX(33vw);
+    transition: all .5s;
+    animation-timing-function: ease-in;
+}
+.email{
+    transition: all .5s;
+    animation-timing-function: ease-in;
+}
