@@ -89,13 +89,3 @@ body{
     transition: all .5s;
     animation-timing-function: ease-in;
 }
-.tutorial{
-    margin-top: 3vw;
-    margin-left: -660px;
-    color: grey;
-    font-family: "Poppins";
-    display: grid;
-    align-items: center;
-    align-content: center;
-    place-items: center;
-}

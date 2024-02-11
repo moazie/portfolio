@@ -35,3 +35,9 @@ h2{
     font-family: "DM Serif Display";
     font-size: 10vw;
 }
+.tutorial{
+    margin-top: 3vw;
+    margin-left: -660px;
+    color: grey;
+    font-family: "Poppins";
+}
