@@ -1,0 +1,66 @@
+.Title1{
+    margin-top: 20vw;
+    font-family: "Earwig";
+    color: rgb(0, 0, 0);
+    font-size: 6vw;
+    display: grid;
+    display: grid;
+    align-items: center;
+    align-content: center;
+    place-items: center;
+    -webkit-text-stroke: .5px rgb(255, 255, 255);
+    user-select: none;
+    margin-bottom: 30vw;
+}
+.subtext1{
+    font-size: 2vw;
+    font-family: Poppins;
+    color:darkgray;
+    -webkit-text-stroke: 0px rgb(255, 255, 255);
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding-top: 30vw;
+    padding-bottom: 30vw;
+    text-align: center;
+    
+}
+body{
+    overflow:auto;
+}
+.iconab{
+    display: flex;
+    justify-content: center; /* Horizontally center */
+    align-items: center; /* Vertically center */
+    padding-top: 3vw;
+    font-size: 3vw;
+    color: darkgrey;
+    -webkit-text-stroke: 0px rgb(255, 255, 255);
+
+}
+.space{
+    padding: .5vw;
+}
+.break{
+    padding-bottom: 30vw;
+}
+.sec1{
+    background-color: rgb(0, 0, 0);
+
+}
+.sec2{
+    background-color: black;
+}
+.sec3{
+    background-color: black;
+}
+.sec4{
+    background-color: black;
+}
+.color{
+    background-color: black;
+}
+.gradient{
+    padding: 9vw;
+    transform: translateY(2.8vw);
+    background-image: linear-gradient( rgb(21, 21, 21), black);
+}

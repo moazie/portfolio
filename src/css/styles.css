@@ -60,9 +60,8 @@ p1{
 .hidden {
     opacity: 0;
     filter: blur(5px);
-    transition: all .5s;
+    transition: all 2s;
     animation-timing-function: ease-in;
-    transform:scaleY(1.1);
     user-select: none;
 }
 .hiddenlink{

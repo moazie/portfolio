@@ -6,6 +6,10 @@
     src: url(../fonts/helveticanowtext-black.ttf) format("truetype");
 }
 @font-face {
+    font-family: "Earwig" ;
+    src: url(../fonts/earwigfactory.otf) format("opentype");
+}
+@font-face {
     font-family: "Helvetica Now Italic" ;
     src: url(src/fonts/helveticanowtext-blackitalic.ttf);
 }
