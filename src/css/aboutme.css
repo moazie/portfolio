@@ -1,14 +1,13 @@
 .Title1{
     margin-top: 20vw;
-    font-family: "Earwig";
-    color: rgb(0, 0, 0);
-    font-size: 6vw;
+    font-family: "NerdIJ";
+    color: rgb(255, 255, 255);
+    font-size: 3vw;
     display: grid;
     display: grid;
     align-items: center;
     align-content: center;
     place-items: center;
-    -webkit-text-stroke: .5px rgb(255, 255, 255);
     user-select: none;
     margin-bottom: 30vw;
 }
